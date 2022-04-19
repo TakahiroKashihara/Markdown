@@ -7,7 +7,6 @@
 # 1. **MUTB‘‚í‚©‚è“®‰æ**
 ---
 ***<font color = gray size = "5" face = "ƒƒCƒŠƒI"> Program1</font>***
-
 ---
 ### 1.1. **‚»‚à‚»‚àŽ‘ŽY‚Æ‚ÍH**
 - —a‹à
